@@ -1,0 +1,27 @@
+#cover
+{
+    
+    height: 100px;
+    padding: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    background-image: url(SOPAT.jpg);
+    
+}
+.che
+{
+    display: inline-block;
+    
+}
+button
+{
+    margin-top: 50px;
+}
+.list
+{
+background-color: black;
+width: 25%;
+color: white;
+}
